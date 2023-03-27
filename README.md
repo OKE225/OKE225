@@ -3,17 +3,6 @@ Ambitious passionate and future Frontend Web Developer. I've been learning progr
 <br>
 <br>
 <br>
-<h1>Websites Histories</h1>
-<ul>
-    <li><b>Forgotten King</b> - https://oke225.github.io/ForgottenKing/</li>
-    <li><b>Nvidia Graphics Card</b> - https://oke225.github.io/Nvidia-graphics-card/</li>
-    <li><b>Apple</b> - https://oke225.github.io/Apple/</li>
-    <li><b>Portfolio</b> - https://oke225.github.io/Portfolio/</li>
-    <li><b>Intel Processor</b> - https://oke225.github.io/Intel-Processor/</li>
-</ul>
-<br>
-<br>
-<br>
 <h1>Programming Skills</h1>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,6 +17,17 @@ Ambitious passionate and future Frontend Web Developer. I've been learning progr
 ![GitHub_Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Windows_11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+<br>
+<br>
+<br>
+<h1>Websites Histories</h1>
+<ul>
+    <li><b>Forgotten King</b> - https://oke225.github.io/ForgottenKing/</li>
+    <li><b>Nvidia Graphics Card</b> - https://oke225.github.io/Nvidia-graphics-card/</li>
+    <li><b>Apple</b> - https://oke225.github.io/Apple/</li>
+    <li><b>Portfolio</b> - https://oke225.github.io/Portfolio/</li>
+    <li><b>Intel Processor</b> - https://oke225.github.io/Intel-Processor/</li>
+</ul>
 <br>
 <br>
 <br>
