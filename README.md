@@ -1,5 +1,5 @@
 <h1>Hi, I'm OKE</h1>
-Ambitious passionate and future Frontend Web Developer. I've been learning programming since the summer of 2022.
+I'm ambitious passionate and future Frontend Web Developer. I've been learning programming since the summer of 2022.
 <br>
 <br>
 <br>
