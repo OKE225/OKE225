@@ -3,6 +3,17 @@ Ambitious passionate and future Frontend Web Developer. I've been learning progr
 <br>
 <br>
 <br>
+<h1>Websites Histories</h1>
+<ul>
+    <li><b>Forgotten King</b> - https://oke225.github.io/ForgottenKing/</li>
+    <li><b>Nvidia Graphics Card</b> - https://oke225.github.io/Nvidia-graphics-card/</li>
+    <li><b>Apple</b> - https://oke225.github.io/Apple/</li>
+    <li><b>Portfolio</b> - https://oke225.github.io/Portfolio/</li>
+    <li><b>Intel Processor</b> - https://oke225.github.io/Intel-Processor/</li>
+</ul>
+<br>
+<br>
+<br>
 <h1>Programming Skills</h1>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,9 +22,6 @@ Ambitious passionate and future Frontend Web Developer. I've been learning progr
 <br>
 <br>
 <br>
-
-
-
 <h1>I'm Using</h1>
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -23,10 +31,6 @@ Ambitious passionate and future Frontend Web Developer. I've been learning progr
 <br>
 <br>
 <br>
-
-
-
-
 <h1>Wants To Learn</h1>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -40,14 +44,3 @@ Ambitious passionate and future Frontend Web Developer. I've been learning progr
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-<br>
-<br>
-<br>
-<h1>Websites Histories</h1>
-<ul>
-    <li><b>Forgotten King</b> - https://oke225.github.io/ForgottenKing/</li>
-    <li><b>Nvidia Graphics Card</b> - https://oke225.github.io/Nvidia-graphics-card/</li>
-    <li><b>Apple</b> - https://oke225.github.io/Apple/</li>
-    <li><b>Portfolio</b> - https://oke225.github.io/Portfolio/</li>
-    <li><b>Intel Processor</b> - https://oke225.github.io/Intel-Processor/</li>
-</ul>
