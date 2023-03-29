@@ -21,13 +21,13 @@ I'm ambitious passionate and future Frontend Web Developer. I've been learning p
 <br>
 <br>
 <h1>Websites Histories</h1>
-<ul>
+<ol reversed>
     <li><b>Forgotten King</b> - https://oke225.github.io/ForgottenKing/</li>
     <li><b>Nvidia Graphics Card</b> - https://oke225.github.io/Nvidia-graphics-card/</li>
     <li><b>Apple</b> - https://oke225.github.io/Apple/</li>
     <li><b>Portfolio</b> - https://oke225.github.io/Portfolio/</li>
     <li><b>Intel Processor</b> - https://oke225.github.io/Intel-Processor/</li>
-</ul>
+</ol>
 <br>
 <br>
 <br>
