@@ -24,9 +24,9 @@ I'm ambitious passionate and future Frontend Web Developer. I've been learning p
 <ol reversed>
 <li>Forgotten King - https://oke225.github.io/ForgottenKing/</li>
 <li>Nvidia Graphics Card - https://oke225.github.io/Nvidia-graphics-card/</li>
-<li><b>Apple</b> - https://oke225.github.io/Apple/</li>
-<li><b>Portfolio</b> - https://oke225.github.io/Portfolio/</li>
-<li><b>Intel Processor</b> - https://oke225.github.io/Intel-Processor/</li>
+<li>Apple - https://oke225.github.io/Apple/</li>
+<li>Portfolio - https://oke225.github.io/Portfolio/</li>
+<li>Intel Processor - https://oke225.github.io/Intel-Processor/</li>
 </ol>
 <br />
 <br />
