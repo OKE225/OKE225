@@ -21,7 +21,7 @@ I'm ambitious passionate and future Frontend Web Developer. I've been learning p
 <br>
 <br>
 <h1>My Websites</h1>
-<ol revers>    
+<ol reversed>    
     <li><b>Forgotten King</b> - https://oke225.github.io/ForgottenKing/</li>
     <li><b>Nvidia Graphics Card</b> - https://oke225.github.io/Nvidia-graphics-card/</li>
     <li><b>Apple</b> - https://oke225.github.io/Apple/</li>
