@@ -3,7 +3,7 @@ I'm ambitious passionate and future Frontend Web Developer. I've been learning p
 
 <h1>My Websites</h1>
 <ul>
-  <li>Disk Shop - oke225.github.io/Disk-Shop/</li>
+  <li>Disk Shop - https://oke225.github.io/Disk-Shop/</li>
 <li>Forgotten King - https://oke225.github.io/ForgottenKing/</li>
 <li>Nvidia Graphics Card - https://oke225.github.io/Nvidia-graphics-card/</li>
 <li>Apple - https://oke225.github.io/Apple/</li>
