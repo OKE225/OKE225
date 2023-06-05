@@ -2,6 +2,9 @@
 I'm ambitious passionate and future Frontend Web Developer. I've been learning programming since the summer of 2022.
 
 ## My Websites
+- [Game of rock paper scissor](https://oke225.github.io/Game-rock-paper-scissor/)  
+Simple game of rock, paper and scissor in HTML, CSS and JS.  
+
 - [Disk Shop](https://oke225.github.io/Disk-Shop/)  
 A website about computer disks.  
 
