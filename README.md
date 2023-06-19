@@ -1,7 +1,7 @@
 # Hi, I'm OKE
-I'm ambitious passionate and future Frontend Web Developer. I've been learning programming since the summer of 2022.
+I'm ambitious passionate and future Frontend Web Developer. I've been learning web programming since the summer of 2022.  
 
-## My Websites
+## My Projects
 - [Game of rock paper scissor](https://oke225.github.io/Game-rock-paper-scissor/)  
 Simple game of rock, paper and scissor in HTML, CSS and JS.  
 
