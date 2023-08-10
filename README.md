@@ -2,6 +2,9 @@
 I'm ambitious passionate and future Frontend Web Developer. I've been learning web programming since the summer of 2022.  
 
 ## My Projects
+- [RAMs-Website](https://oke225.github.io/RAMs-Website/)  
+Website for to computer's RAM. I used technology HTML, CSS, JS & Bootstrap 5 cdn.
+
 - [Game of rock paper scissor](https://oke225.github.io/Game-rock-paper-scissor/)  
 Simple game of rock, paper and scissor in HTML, CSS and JS.  
 
