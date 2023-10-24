@@ -1,6 +1,4 @@
 # Hi, I'm OKE
-I'm ambitious passionate and future Frontend Web Developer. I've been learning web programming since the summer of 2022.  
-
 ## My Projects
 - [RAMs-Website](https://oke225.github.io/RAMs-Website/)  
 Website for to computer's RAM. I used technology HTML, CSS, JS & Bootstrap 5 cdn.
