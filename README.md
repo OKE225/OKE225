@@ -1,5 +1,13 @@
 # 👋 Hi, I'm Patryk
 
+### 🔧 Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,tailwind,materialui,nodejs,express,mongodb,vscode,git,github" />
+  </a>
+</p>
+
 <img align="right" alt="img" src="src/full-stack.png" width="325px"/>
 
 ### 🧐 About Me
@@ -18,12 +26,3 @@
 - 💬 improve my English
 - 🖐🏻 improve my typing speed
 - 🏀 enjoy sports ( basketball )
-
-### 🔧 Languages and Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,tailwind,materialui,nodejs,express,mongodb,vscode,git,github&perline=10" />
-  </a>
-</p>
-<br/>
