@@ -17,7 +17,7 @@
 - 📌 I live in **Poland, Katowice, Żory**
 - 🧠 I'm currently learning **TailwindCSS, NodeJS, ExpressJS and MongoDB**
 - 🎯 My goal is to **become a skilled front-end developer** building beautiful and functional web apps
-- 📩 Contact me on Discord: `oke_225`
+- 📩 Contact me on Discord: `oke_225` or E-mail: `patryk.jastrzebowski.dev@gmail.com`
 
 ### 🕒 In my free time, I like to
 
