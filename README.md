@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Patryk
 
-<img align="right" alt="img" src="src/full-stack.png" width="300px"/>
+<!-- <img align="right" alt="img" src="src/full-stack.png" width="300px"/> -->
 
 ## 🔧 Languages and Tools
 
