@@ -2,11 +2,11 @@
 
 <img align="right" alt="img" src="src/full-stack.png" width="300px"/>
 
-### 🔧 Languages and Tools
+## 🔧 Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,tailwind,materialui,nodejs,express,mongodb,vscode,git,github&perline=7)](https://skillicons.dev)
 
-### 🧐 About Me
+## 🧐 About Me
 
 - 🧑🏻 I'm a 19 year old **aspiring junior front-end developer** passionate about **React and TypeScript**
 - 🎓 Currently a **high school student**
@@ -15,7 +15,7 @@
 - 🎯 My goal is to **become a skilled front-end developer** building beautiful and functional web apps
 - 📩 Contact me on Discord: `oke_225` or E-mail: `patryk.jastrzebowski.dev@gmail.com`
 
-### 🕒 In my free time, I like to
+## 🕒 In my free time, I like to
 
 - 💻 write code
 - 📚 read books on self-improvement
