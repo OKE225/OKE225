@@ -4,7 +4,7 @@
 
 ## 🔧 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,tailwind,materialui,nodejs,express,mongodb,vscode,git,github&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,git,ts,tailwind,nodejs,express,mongodb,materialui,sass,css,vscode,github,html&perline=7)](https://skillicons.dev)
 
 ## 🧐 About Me
 
