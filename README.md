@@ -4,11 +4,11 @@
 
 ## 🔧 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,express,php,mongodb,mysql,git,tailwind,jest,vitest,materialui,sass,css,html,vite,vscode,figma,github&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,js,nodejs,express,php,mongodb,mysql,git,tailwind,docker,jest,vitest,materialui,sass,css,html,vite,vercel,vscode,md,figma,github&perline=9)](https://skillicons.dev)
 
 ## 🧐 About Me
 
-- 🧑🏻 I'm a 19 year old **aspiring junior front-end developer** passionate about **React and TypeScript**
+- 🧑🏻 I'm a 20 year old **aspiring junior front-end developer** passionate about **React and TypeScript**
 - 🎓 Currently a **high school student**
 - 📌 I live in **Poland, Katowice, Żory**
 - 🧠 I'm currently learning **TailwindCSS, NodeJS, ExpressJS and MongoDB**
