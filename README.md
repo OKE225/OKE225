@@ -9,7 +9,7 @@
 ## 🧐 About Me
 
 - 🧑🏻 I'm a 20 year old **aspiring junior front-end developer** passionate about **React and TypeScript**
-- 🎓 I'm a high school graduate
+- 🎓 I'm a **high school graduate**
 - 📌 I live in **Poland, Katowice, Żory**
 - 🧠 I'm currently learning **ThreeJS, Docker, JEST and PostgreSQL**
 - 🎯 My goal is to **become a skilled front-end developer** building beautiful and functional web apps
