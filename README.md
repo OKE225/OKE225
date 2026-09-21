@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Patryk
-
-<!-- <img align="right" alt="img" src="src/full-stack.png" width="300px"/> -->
+<img alt="img" src="src/github-banner.png" />
 
 ## 🔧 Languages and Tools
 
