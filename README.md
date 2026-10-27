@@ -2,11 +2,12 @@
 
 ## 🔧 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,threejs,tailwind,supabase,postgres,git,html,css,sass,bootstrap,materialui,php,vercel,mysql,mongodb,jest,vite,vitest,docker,nodejs,express,vscode,androidstudio,github,gmail,figma,obsidian,md,notion&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,threejs,tailwind,supabase,postgres,git,html,css,sass,bootstrap,materialui,php,vercel,mysql,mongodb,jest,vite,vitest,docker,nodejs,express,vscode,androidstudio,github,gmail,figma,obsidian,md,notion&perline=12)](https://skillicons.dev)
 
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 ![](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+![](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white)
 ![](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
